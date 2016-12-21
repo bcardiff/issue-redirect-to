@@ -1,5 +1,5 @@
 ---
 redirect_from:
-  - /fake-source.html
+  - {{site.baseurl}}/fake-source.html
 ---
 # This is real

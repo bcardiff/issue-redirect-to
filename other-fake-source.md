@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - /real-source.html
+  - {{site.baseurl}}/real-source.html
 ---
